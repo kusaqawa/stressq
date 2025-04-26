@@ -1,0 +1,8 @@
+# STRESSQ Network Stress Tester Requirements
+requests==2.31.0          # For HTTP flood attacks
+argparse==1.4.0           # For command-line arguments (built-in for Python 3+)
+speedtest-cli>=2.1.3
+psutil>=5.9.5
+
+# Optional (for advanced SYN flood)
+scapy==2.5.0            # Uncomment for advanced packet crafting
