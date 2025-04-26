@@ -10,7 +10,7 @@
 - **Ethical Focus**: Built-in legal warnings and confirmation prompts
 
 ## ⚠️ Legal Disclaimer
-> **BSTRESS is for authorized security testing only.**  
+> **STRESSQ is for authorized security testing only.**  
 > Unauthorized use against networks/systems you don't own is illegal.  
 > By using this tool, you agree to adhere to all applicable laws.
 
